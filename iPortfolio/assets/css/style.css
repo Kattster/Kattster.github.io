@@ -1,9 +1,3 @@
-/**
-* Template Name: iPortfolio - v3.7.0
-* Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
 
 /*--------------------------------------------------------------
 # General
@@ -223,7 +217,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
   line-height: 56px;
   color: #fff;
-
+  
 }
 #hero p {
   color: #fff;
@@ -369,7 +363,7 @@ section {
 # Skills
 --------------------------------------------------------------*/
 .skills2 {
-transition: cubic-bezier(0.175, 0.885, 0.32, 1.275) 15s;
+  transition: cubic-bezier(0.175, 0.885, 0.32, 1.275) 15s;
 }
 
 /*--------------------------------------------------------------
@@ -960,3 +954,11 @@ transition: cubic-bezier(0.175, 0.885, 0.32, 1.275) 15s;
     padding-right: 20px 15px;
   }
 }
+
+
+/**
+* Template Name: iPortfolio - v3.7.0
+* Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
+* Author: BootstrapMade.com
+* License: https://bootstrapmade.com/license/
+*/
